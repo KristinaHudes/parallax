@@ -46,3 +46,7 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox).
 - Scroll the page to see the **Parallax effect** in action.
 - The background layers move at different speeds, creating a sense of depth.
 - Fully responsive and visually appealing across devices.
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
